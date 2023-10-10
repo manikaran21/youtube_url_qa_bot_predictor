@@ -29,7 +29,7 @@ if 'widget_disabled' not in st.session_state:
     st.session_state.widget_disabled = [False]*count
     
     
-st.title("YouTube QA Bot")
+st.title("YouTube QA Bot Predictor")
 
 st.markdown(f"**Youtube video link :**[Langchain in 13 minutes]({url})")
     # Get YouTube video URL from user
