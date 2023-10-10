@@ -1,0 +1,12 @@
+git+https://github.com/openai/whisper.git
+pandas
+numpy
+uvicorn
+streamlit
+pytube
+transformers
+pydub
+langdetect
+sentencepiece
+
+

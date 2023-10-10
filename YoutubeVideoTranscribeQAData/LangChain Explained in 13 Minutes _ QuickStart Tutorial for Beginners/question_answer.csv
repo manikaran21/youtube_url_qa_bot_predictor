@@ -1,0 +1,34 @@
+,Question,Answer
+0,what is the name of the open source framework that allows developers to combine large language models with external sources of computation and data,langchain
+1,what is langchain currently offered as a python or javascript package,typescript to be specific
+2,what is langchain currently offered as,"a python or javascript package, typescript to be specific"
+3,what is used to do a similarity search,a vector representation
+4,what helps build applications that follow a pipeline like this,a langchain
+5,"coding, data analysis, data science are all going to be affected by what",this
+6,what is one of the applications that i'm most excited about,the ability to connect large language
+7,what is the main value proposition of langchain,llm
+8,what are the wrappers that allow us to connect to,gpt-4 or the ones from hauggingface
+9,what are the indexes that allow us to extract relevant information for,llms
+10,what are the agents that allow the llm to interact with external apis,indexes
+11,what are the agents that allow the llm to interact with,external apis
+12,what is the purpose of this video,to get an overview of the framework and a feel for the different elements
+13,what is the cost of signing up for a pinecon account,free
+14,what is easy to find for open ai,the api keys and the environment name
+15,what does load.n do when you have the keys in an environment file,find that in to get the keys
+16,what do we import,open ai wrapper
+17,what is the first step,import the open ai wrapper
+18,what is hat used for,an input to the chat model
+19,what is gbt3.5 turbo,hat as an input to the chat model
+20,what is prompt templates,let's move to the next concept
+21,what is the next concept,prompt templates
+22,what does hat do,as an input to the chat model
+23,how can we build sequential chains,where we have one chain returning an output
+24,what does the first chain do,machine learning concept
+25,what does the second chain do,the second chain then takes the description of the first concept
+26,how long is the explanation for a five-year-old,slightly longer
+27,how can we extract the plain text of the individual elements of the list with page content,obmeis embedding model eta
+28,how can we extract the plain text of the individual elements of the list,with page content
+29,what does the openai chatgpt plugins page showcase,a py agent
+30,what can py agent store in the form of,a vector
+31,what is a py agent,openai chatgpt plugins page
+32,what language model is used to instantiate a python agent executor,openai
