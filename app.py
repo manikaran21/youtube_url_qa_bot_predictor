@@ -46,7 +46,7 @@ if checkbox_state:
     
     for i in range(0,count):
         st.write(data['Question'][i])
-        wid = st.text_input(placeholder='enter',label='ans',
+        wid = st.text_input(placeholder='enter your answer here',label='ans',
                         label_visibility='collapsed',
                         key=f"t{i}",
                         on_change=toggle_widget,args=(i,) ,
