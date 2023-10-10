@@ -9,14 +9,14 @@
   1. Clone this project repository into your local system 
   2. Go to the project directory
   3. Install the packages :
-                            pip install -r requirements.txt
+    * pip install -r requirements.txt
   4. Run the application :
-                            streamlit run app.py
+    * streamlit run app.py
 
 3.If you want to change the youtube video then follow below steps:
   1. Change the "url" variable in all .py files .
   2. First run the video_to_text.py file .
   3. Next , run the text_to_qa_data.py file .
   4. Finally , run the app.py file
-                            streamlit run app.py
+        * streamlit run app.py
 
